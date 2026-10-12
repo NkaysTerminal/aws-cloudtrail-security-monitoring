@@ -1,0 +1,11 @@
+Lab Screenshots
+
+This folder contains visual evidence from my AWS CloudTrail security monitoring lab.
+
+Screenshots will demonstrate:
+
+- CloudTrail Event History and the "ConsoleLogin" event.
+- Event details from the controlled failed sign-in investigation.
+- The "Nkay-CloudSecurity-Trail" logging status.
+
+All screenshots are reviewed for sensitive information before publication.
